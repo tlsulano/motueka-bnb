@@ -1,0 +1,3 @@
+<!-- insert the page content here -->
+<h1>Welcome to the Motueka Bed & Breakfast</h1>
+<p>Mr. and Mrs. Hohepa, a retired couple, live in a beautiful, large heritage homestead just around the corner from Motueka. They have turned their big home into an exquisite Bed & Breakfast whilst living independently. Discover the appeal of their hospitality at 143 Kina Peninsula Road, Tasman, hidden in the dynamic heart of Motueka, 7173, New Zealand.
